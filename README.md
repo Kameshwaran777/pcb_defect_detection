@@ -19,3 +19,7 @@ Python, YOLOv8 (Ultralytics), OpenCV, Streamlit, SQLite
 ## Project Info
 Semester 5 PBL project, Chennai Institute of Technology.
 
+## Results
+![Result 1](result1.png)
+![Result 2](result2.png)
+
