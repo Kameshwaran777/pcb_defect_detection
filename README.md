@@ -17,5 +17,5 @@ Python, YOLOv8 (Ultralytics), OpenCV, Streamlit, SQLite
 3. Run: `streamlit run app.py`
 
 ## Project Info
-Semester 6 PBL project, Chennai Institute of Technology.
+Semester 5 PBL project, Chennai Institute of Technology.
 
